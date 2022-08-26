@@ -1,0 +1,8 @@
+Ponds	Max
+B1	539
+B2	648
+B3	74
+B4	25
+B5	49
+B6	145
+ControlBe	4

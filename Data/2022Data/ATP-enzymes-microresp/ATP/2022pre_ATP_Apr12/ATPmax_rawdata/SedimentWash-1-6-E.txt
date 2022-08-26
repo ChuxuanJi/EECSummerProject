@@ -1,0 +1,8 @@
+Ponds	Max
+E1	76
+E2	40
+E3	366
+E4	92
+E5	229
+E6	57
+ControlEc	4

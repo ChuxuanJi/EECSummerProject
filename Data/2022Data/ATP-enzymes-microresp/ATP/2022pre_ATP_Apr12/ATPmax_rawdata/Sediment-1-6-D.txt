@@ -1,0 +1,8 @@
+Ponds	Max
+D1	497
+D2	64
+D3	396
+D4	20
+D5	4
+D6	87
+ControlDe	7

@@ -1,0 +1,8 @@
+Ponds	Max
+ControlEd	4
+E7	69
+E8	117
+E9	82
+E10	201
+E11	82
+E12	50

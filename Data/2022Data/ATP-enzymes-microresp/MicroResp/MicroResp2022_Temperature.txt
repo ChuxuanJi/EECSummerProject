@@ -1,0 +1,129 @@
+Ponds	Group	Temperature	Treatment	Ammonia	MicroResp	Dosing	Temp
+A1	4°„C	4°„C	4°„C	No Ammonia	0.009158162	Pre	4
+A2	CONTROL	CONTROL	CONTROL	Ammonia	0.008993638	Pre	0
+A3	5°„C	5°„C		No Ammonia	0.009324836	Pre	5
+A5	1°„C	1°„C		No Ammonia	0.008356697	Pre	1
+A6	4°„C	4°„C	4°„C	Ammonia	0.007320928	Pre	4
+A7	CONTROL	CONTROL	CONTROL	No Ammonia	0.01073765	Pre	0
+A8	5°„C	5°„C		No Ammonia	0.009837924	Pre	5
+A9	2°„C	2°„C		Ammonia	0.012712069	Pre	2
+B1	1°„C	1°„C		No Ammonia	0.011893538	Pre	1
+B3	6°„C	6°„C		No Ammonia	0.012712069	Pre	6
+B4	CONTROL	CONTROL	CONTROL	No Ammonia	0.008512792	Pre	0
+B6	7°„C	7°„C		No Ammonia	0.007462914	Pre	7
+B7	3°„C	3°„C		No Ammonia	0.013136141	Pre	3
+B8	CONTROL	CONTROL	CONTROL	Ammonia	0.006906601	Pre	0
+B9	4°„C	4°„C	4°„C	No Ammonia	0.010013365	Pre	4
+B10	8°„C	8°„C		No Ammonia	0.009493676	Pre	8
+B11	2°„C	2°„C		Ammonia	0.01424065	Pre	2
+B12	CONTROL	CONTROL	CONTROL	Ammonia	0.01716156	Pre	0
+C2	2°„C	2°„C		Ammonia	0.014700564	Pre	2
+C3	4°„C	4°„C	4°„C	No Ammonia	0.011498795	Pre	4
+C4	8°„C	8°„C		Ammonia	0.008202667	Pre	8
+C5	2°„C	2°„C		Ammonia	0.008356697	Pre	2
+C7	2°„C	2°„C		No Ammonia	0.008993638	Pre	2
+C10	4°„C	4°„C	4°„C	Ammonia	0.010191041	Pre	4
+C11	7°„C	7°„C		No Ammonia	0.009158162	Pre	7
+D2	4°„C	4°„C	4°„C	Ammonia	0.010370969	Pre	4
+D3	6°„C	6°„C		Ammonia	0.012712069	Pre	6
+D4	2°„C	2°„C		Ammonia	0.011498795	Pre	2
+D6	CONTROL	CONTROL	CONTROL	No Ammonia	0.005646623	Pre	0
+D9	6°„C	6°„C		No Ammonia	0.008050685	Pre	6
+D10	CONTROL	CONTROL	CONTROL	Ammonia	0.007900736	Pre	0
+D12	4°„C	4°„C	4°„C	No Ammonia	0.011694971	Pre	4
+E1	4°„C	4°„C	4°„C	No Ammonia	0.013791157	Pre	4
+E2	7°„C	7°„C		Ammonia	0.009837924	Pre	7
+E4	4°„C	4°„C	4°„C	Ammonia	0.0096647	Pre	4
+E5	3°„C	3°„C		Ammonia	0.025964554	Pre	3
+E7	4°„C	4°„C	4°„C	Ammonia	0.010013365	Pre	4
+E9	2°„C	2°„C		Ammonia	0.011113545	Pre	2
+E10	2°„C	2°„C		No Ammonia	0.015410293	Pre	2
+E11	3°„C	3°„C		Ammonia	0.015896897	Pre	3
+F3	4°„C	4°„C	4°„C	Ammonia	0.00867097	Pre	4
+F5	CONTROL	CONTROL	CONTROL	No Ammonia	0.008356697	Pre	0
+F6	5°„C	5°„C		Ammonia	0.007900736	Pre	5
+F7	8°„C	8°„C		Ammonia	0.008512792	Pre	8
+F8	2°„C	2°„C		No Ammonia	0.012922857	Pre	2
+F10	6°„C	6°„C		Ammonia	0.012712069	Pre	6
+F11	CONTROL	CONTROL	CONTROL	No Ammonia	0.013791157	Pre	0
+F12	2°„C	2°„C		Ammonia	0.010924437	Pre	2
+G1	2°„C	2°„C		No Ammonia	0.00867097	Pre	2
+G2	1°„C	1°„C		Ammonia	0.007320928	Pre	1
+G3	2°„C	2°„C		No Ammonia	0.007320928	Pre	2
+G5	3°„C	3°„C		No Ammonia	0.007900736	Pre	3
+G8	CONTROL	CONTROL	CONTROL	No Ammonia	0.011893538	Pre	0
+G10	2°„C	2°„C		No Ammonia	0.011304992	Pre	2
+G11	5°„C	5°„C		Ammonia	0.013791157	Pre	5
+H1	CONTROL	CONTROL	CONTROL	Ammonia	0.012922857	Pre	0
+H3	8°„C	8°„C		No Ammonia	0.007320928	Pre	8
+H4	4°„C	4°„C	4°„C	No Ammonia	0.007462914	Pre	4
+H5	2°„C	2°„C		No Ammonia	0.007180891	Pre	2
+H7	7°„C	7°„C		Ammonia	0.007606867	Pre	7
+H8	4°„C	4°„C	4°„C	Ammonia	0.013136141	Pre	4
+H9	1°„C	1°„C		Ammonia	0.013351941	Pre	1
+H10	CONTROL	CONTROL	CONTROL	Ammonia	0.014700564	Pre	0
+H11	4°„C	4°„C	4°„C	No Ammonia	0.018224045	Pre	4
+A1	4°„C	4°„C	4°„C	No Ammonia	0.020195803	Post	4
+A2	CONTROL	CONTROL	CONTROL	Ammonia	0.024591884	Post	0
+A3	5°„C	5°„C		No Ammonia	0.028125493	Post	5
+A5	1°„C	1°„C		No Ammonia	0.0232721	Post	1
+A6	4°„C	4°„C	4°„C	Ammonia	0.049768181	Post	4
+A7	CONTROL	CONTROL	CONTROL	No Ammonia	0.025271529	Post	0
+A8	5°„C	5°„C		No Ammonia	0.017422895	Post	5
+A9	2°„C	2°„C		Ammonia	0.014934475	Post	2
+B1	1°„C	1°„C		No Ammonia	0.021388842	Post	1
+B3	6°„C	6°„C		No Ammonia	0.024930044	Post	6
+B4	CONTROL	CONTROL	CONTROL	No Ammonia	0.041397833	Post	0
+B6	7°„C	7°„C		No Ammonia	0.058032979	Post	7
+B7	3°„C	3°„C		No Ammonia	0.037616316	Post	3
+B8	CONTROL	CONTROL	CONTROL	Ammonia	0.044407563	Post	0
+B9	4°„C	4°„C	4°„C	No Ammonia	0.01716156	Post	4
+B10	8°„C	8°„C		No Ammonia	0.015652237	Post	8
+B11	2°„C	2°„C		Ammonia	0.019905175	Post	2
+B12	CONTROL	CONTROL	CONTROL	Ammonia	0.022631648	Post	0
+C2	2°„C	2°„C		Ammonia	0.081352729	Post	2
+C3	4°„C	4°„C	4°„C	No Ammonia	0.029253003	Post	4
+C4	8°„C	8°„C		Ammonia	0.02169483	Post	8
+C5	2°„C	2°„C		Ammonia	0.051462998	Post	2
+C7	2°„C	2°„C		No Ammonia	0.0232721	Post	2
+C10	4°„C	4°„C	4°„C	Ammonia	0.024591884	Post	4
+C11	7°„C	7°„C		No Ammonia	0.016394433	Post	7
+D2	4°„C	4°„C	4°„C	Ammonia	0.020195803	Post	4
+D3	6°„C	6°„C		Ammonia	0.024591884	Post	6
+D4	2°„C	2°„C		Ammonia	0.022316213	Post	2
+D6	CONTROL	CONTROL	CONTROL	No Ammonia	0.032418043	Post	0
+D9	6°„C	6°„C		No Ammonia	0.013136141	Post	6
+D10	CONTROL	CONTROL	CONTROL	Ammonia	0.022631648	Post	0
+D12	4°„C	4°„C	4°„C	No Ammonia	0.027391376	Post	4
+E1	4°„C	4°„C	4°„C	No Ammonia	0.024591884	Post	4
+E2	7°„C	7°„C		Ammonia	0.027391376	Post	7
+E4	4°„C	4°„C	4°„C	Ammonia	0.022316213	Post	4
+E5	3°„C	3°„C		Ammonia	0.048660807	Post	3
+E7	4°„C	4°„C	4°„C	Ammonia	0.024930044	Post	4
+E9	2°„C	2°„C		Ammonia	0.016394433	Post	2
+E10	2°„C	2°„C		No Ammonia	0.025616359	Post	2
+E11	3°„C	3°„C		Ammonia	0.021085965	Post	3
+F3	4°„C	4°„C	4°„C	Ammonia	0.030412597	Post	4
+F5	CONTROL	CONTROL	CONTROL	No Ammonia	0.040910851	Post	0
+F6	5°„C	5°„C		Ammonia	0.047571234	Post	5
+F7	8°„C	8°„C		Ammonia	0.027029524	Post	8
+F8	2°„C	2°„C		No Ammonia	0.023597157	Post	2
+F10	6°„C	6°„C		Ammonia	0.016394433	Post	6
+F11	CONTROL	CONTROL	CONTROL	No Ammonia	0.016647347	Post	0
+F12	2°„C	2°„C		Ammonia	0.019332943	Post	2
+G1	2°„C	2°„C		No Ammonia	0.018224045	Post	2
+G2	1°„C	1°„C		Ammonia	0.020489464	Post	1
+G3	2°„C	2°„C		No Ammonia	0.025616359	Post	2
+G5	3°„C	3°„C		No Ammonia	0.019905175	Post	3
+G8	CONTROL	CONTROL	CONTROL	No Ammonia	0.018772617	Post	0
+G10	2°„C	2°„C		No Ammonia	0.01690305	Post	2
+G11	5°„C	5°„C		Ammonia	0.017954119	Post	5
+H1	CONTROL	CONTROL	CONTROL	Ammonia	0.024591884	Post	0
+H3	8°„C	8°„C		No Ammonia	0.016647347	Post	8
+H4	4°„C	4°„C	4°„C	No Ammonia	0.02169483	Post	4
+H5	2°„C	2°„C		No Ammonia	0.034089385	Post	2
+H7	7°„C	7°„C		Ammonia	0.023597157	Post	7
+H8	4°„C	4°„C	4°„C	Ammonia	0.025616359	Post	4
+H9	1°„C	1°„C		Ammonia	0.028497799	Post	1
+H10	CONTROL	CONTROL	CONTROL	Ammonia	0.028497799	Post	0
+H11	4°„C	4°„C	4°„C	No Ammonia	0.030412597	Post	4

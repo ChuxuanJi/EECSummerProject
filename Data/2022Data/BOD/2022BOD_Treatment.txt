@@ -1,0 +1,117 @@
+Ponds	Group	Temperature	Treatment	Ammonia	BOD	Dosing
+A1	4°„C	4°„C	4°„C	No Ammonia	2.3	Pre
+A2	CONTROL	CONTROL	CONTROL	Ammonia	4.9	Pre
+A4	UR+RU		UR+RU	No Ammonia	4.6	Pre
+A6	4°„C	4°„C	4°„C	Ammonia	6.3	Pre
+A7	CONTROL	CONTROL	CONTROL	No Ammonia	3.9	Pre
+A10	UR		UR	No Ammonia	5.3	Pre
+A11	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	6.7	Pre
+A12	UR+RU		UR+RU	No Ammonia	6.2	Pre
+B2	UR		UR	Ammonia	5.4	Pre
+B4	CONTROL	CONTROL	CONTROL	No Ammonia	4.5	Pre
+B5	RU		RU	No Ammonia	4.8	Pre
+B8	CONTROL	CONTROL	CONTROL	Ammonia	5.1	Pre
+B9	4°„C	4°„C	4°„C	No Ammonia	3.8	Pre
+B12	CONTROL	CONTROL	CONTROL	Ammonia	7.2	Pre
+C1	UR+RU		UR+RU	Ammonia	5.4	Pre
+C3	4°„C	4°„C	4°„C	No Ammonia	3.9	Pre
+C6	RU		RU	No Ammonia	4.6	Pre
+C8	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	4.1	Pre
+C9	UR		UR	No Ammonia	6.6	Pre
+C10	4°„C	4°„C	4°„C	Ammonia	4.3	Pre
+C12	RU		RU	Ammonia	9.4	Pre
+D1	RU		RU	No Ammonia	5	Pre
+D2	4°„C	4°„C	4°„C	Ammonia	3.8	Pre
+D5	UR		UR	Ammonia	5.6	Pre
+D6	CONTROL	CONTROL	CONTROL	No Ammonia	9.1	Pre
+D7	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	3	Pre
+D8	UR		UR	No Ammonia	3.7	Pre
+D10	CONTROL	CONTROL	CONTROL	Ammonia	3.8	Pre
+D11	UR+RU+4°„C		UR+RU+4°„C	Ammonia	3.7	Pre
+D12	4°„C	4°„C	4°„C	No Ammonia	3.8	Pre
+E1	4°„C	4°„C	4°„C	No Ammonia	3.6	Pre
+E3	UR		UR	No Ammonia	3.8	Pre
+E4	4°„C	4°„C	4°„C	Ammonia	3.6	Pre
+E6	RU		RU	Ammonia	4.1	Pre
+E7	4°„C	4°„C	4°„C	Ammonia	3.6	Pre
+E8	UR+RU		UR+RU	Ammonia	4.6	Pre
+E12	UR		UR	Ammonia	4.2	Pre
+F1	RU		RU	Ammonia	5.4	Pre
+F2	UR+RU+4°„C		UR+RU+4°„C	Ammonia	5.1	Pre
+F3	4°„C	4°„C	4°„C	Ammonia	7	Pre
+F4	UR+RU		UR+RU	Ammonia	3.4	Pre
+F5	CONTROL	CONTROL	CONTROL	No Ammonia	5.7	Pre
+F9	RU		RU	No Ammonia	5.9	Pre
+F11	CONTROL	CONTROL	CONTROL	No Ammonia	7	Pre
+G4	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	3.5	Pre
+G6	UR+RU		UR+RU	No Ammonia	3.3	Pre
+G7	RU		RU	Ammonia	4.4	Pre
+G8	CONTROL	CONTROL	CONTROL	No Ammonia	6.4	Pre
+G9	UR+RU+4°„C		UR+RU+4°„C	Ammonia	3.7	Pre
+G12	UR+RU+4°„C		UR+RU+4°„C	Ammonia	3.7	Pre
+H1	CONTROL	CONTROL	CONTROL	Ammonia	6.6	Pre
+H2	UR+RU		UR+RU	No Ammonia	4.4	Pre
+H4	4°„C	4°„C	4°„C	No Ammonia	4.6	Pre
+H6	UR		UR	Ammonia	7	Pre
+H8	4°„C	4°„C	4°„C	Ammonia	5	Pre
+H10	CONTROL	CONTROL	CONTROL	Ammonia	4.5	Pre
+H11	4°„C	4°„C	4°„C	No Ammonia	7.5	Pre
+H12	UR+RU		UR+RU	Ammonia	5	Pre
+A1	4°„C	4°„C	4°„C	No Ammonia	7	Post
+A2	CONTROL	CONTROL	CONTROL	Ammonia	4.2	Post
+A4	UR+RU		UR+RU	No Ammonia	5.7	Post
+A6	4°„C	4°„C	4°„C	Ammonia	7.8	Post
+A7	CONTROL	CONTROL	CONTROL	No Ammonia	3.1	Post
+A10	UR		UR	No Ammonia	4	Post
+A11	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	3.7	Post
+A12	UR+RU		UR+RU	No Ammonia	3.8	Post
+B2	UR		UR	Ammonia	5.2	Post
+B4	CONTROL	CONTROL	CONTROL	No Ammonia	3.3	Post
+B5	RU		RU	No Ammonia	3.5	Post
+B8	CONTROL	CONTROL	CONTROL	Ammonia	4.2	Post
+B9	4°„C	4°„C	4°„C	No Ammonia	5.3	Post
+B12	CONTROL	CONTROL	CONTROL	Ammonia	8.3	Post
+C1	UR+RU		UR+RU	Ammonia	3.7	Post
+C3	4°„C	4°„C	4°„C	No Ammonia	5.5	Post
+C6	RU		RU	No Ammonia	4.6	Post
+C8	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	3.1	Post
+C9	UR		UR	No Ammonia	5.5	Post
+C10	4°„C	4°„C	4°„C	Ammonia	5.3	Post
+C12	RU		RU	Ammonia	5.4	Post
+D1	RU		RU	No Ammonia	4.5	Post
+D2	4°„C	4°„C	4°„C	Ammonia	2.7	Post
+D5	UR		UR	Ammonia	5.5	Post
+D6	CONTROL	CONTROL	CONTROL	No Ammonia	7.6	Post
+D7	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	1.8	Post
+D8	UR		UR	No Ammonia	3.4	Post
+D10	CONTROL	CONTROL	CONTROL	Ammonia	3.7	Post
+D11	UR+RU+4°„C		UR+RU+4°„C	Ammonia	2.8	Post
+D12	4°„C	4°„C	4°„C	No Ammonia	3.7	Post
+E1	4°„C	4°„C	4°„C	No Ammonia	2.5	Post
+E3	UR		UR	No Ammonia	2.4	Post
+E4	4°„C	4°„C	4°„C	Ammonia	2.7	Post
+E6	RU		RU	Ammonia	4	Post
+E7	4°„C	4°„C	4°„C	Ammonia	3.2	Post
+E8	UR+RU		UR+RU	Ammonia	3.6	Post
+E12	UR		UR	Ammonia	2.6	Post
+F1	RU		RU	Ammonia	4.5	Post
+F2	UR+RU+4°„C		UR+RU+4°„C	Ammonia	3.1	Post
+F3	4°„C	4°„C	4°„C	Ammonia	7	Post
+F4	UR+RU		UR+RU	Ammonia	2	Post
+F5	CONTROL	CONTROL	CONTROL	No Ammonia	7	Post
+F9	RU		RU	No Ammonia	4	Post
+F11	CONTROL	CONTROL	CONTROL	No Ammonia	5.1	Post
+G4	UR+RU+4°„C		UR+RU+4°„C	No Ammonia	3.9	Post
+G6	UR+RU		UR+RU	No Ammonia	4.2	Post
+G7	RU		RU	Ammonia	4.2	Post
+G8	CONTROL	CONTROL	CONTROL	No Ammonia	4.9	Post
+G9	UR+RU+4°„C		UR+RU+4°„C	Ammonia	7.6	Post
+G12	UR+RU+4°„C		UR+RU+4°„C	Ammonia	4.7	Post
+H1	CONTROL	CONTROL	CONTROL	Ammonia	5.4	Post
+H2	UR+RU		UR+RU	No Ammonia	5.9	Post
+H4	4°„C	4°„C	4°„C	No Ammonia	4.5	Post
+H6	UR		UR	Ammonia	4.3	Post
+H8	4°„C	4°„C	4°„C	Ammonia	6.7	Post
+H10	CONTROL	CONTROL	CONTROL	Ammonia	6.9	Post
+H11	4°„C	4°„C	4°„C	No Ammonia	7.8	Post
+H12	UR+RU		UR+RU	Ammonia	3	Post

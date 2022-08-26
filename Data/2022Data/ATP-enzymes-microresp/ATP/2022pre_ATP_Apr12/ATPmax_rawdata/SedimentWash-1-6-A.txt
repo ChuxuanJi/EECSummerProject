@@ -1,0 +1,8 @@
+Ponds	Max
+A1	29
+A2	95
+A3	102
+A4	40
+A5	52
+A6	64
+ControlAc	4

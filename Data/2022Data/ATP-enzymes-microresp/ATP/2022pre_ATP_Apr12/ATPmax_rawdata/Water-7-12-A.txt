@@ -1,0 +1,8 @@
+Ponds	Max
+ControlAb	8
+A7	9
+A8	13
+A9	35
+A10	20
+A11	82
+A12	15

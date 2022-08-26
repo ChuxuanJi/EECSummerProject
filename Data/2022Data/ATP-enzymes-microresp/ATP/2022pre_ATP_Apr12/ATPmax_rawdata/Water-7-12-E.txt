@@ -1,0 +1,8 @@
+Ponds	Max
+ControlEb	5
+E7	10
+E8	10
+E9	84
+E10	15
+E11	12
+E12	12

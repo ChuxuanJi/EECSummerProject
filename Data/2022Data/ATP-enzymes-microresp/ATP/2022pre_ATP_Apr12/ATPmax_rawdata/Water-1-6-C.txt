@@ -1,0 +1,8 @@
+Ponds	Max
+C1	14
+C2	27
+C3	8
+C4	10
+C5	60
+C6	26
+ControlCa	4

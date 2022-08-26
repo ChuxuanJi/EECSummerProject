@@ -1,0 +1,8 @@
+Ponds	Max
+ControlBd	6
+B7	86
+B8	88
+B9	41
+B10	28
+B11	72
+B12	47

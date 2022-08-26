@@ -1,0 +1,8 @@
+Ponds	Max
+ControlCf	7
+C7	519
+C8	71
+C9	26
+C10	19
+C11	192
+C12	507

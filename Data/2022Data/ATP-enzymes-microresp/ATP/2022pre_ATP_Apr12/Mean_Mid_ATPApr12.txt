@@ -1,0 +1,25 @@
+Group	Enviornment	MeanATP	MidATP	SD
+Control	Water	0.50696	0.324848	0.506194
+Control	SedimentWash	2.537259	2.185341	1.53907
+Control	Sediment	65.21568	33.96137	68.30907
+Control	Water(Per-cell)			
+4°„C	Water	0.552663	0.17719	0.822007
+4°„C	SedimentWash	2.056667	1.786664	1.489628
+4°„C	Sediment	109.3725	79.7354	126.8098
+4°„C	Water(Per-cell)			
+Urban	Water	0.413443	0.28055	0.338005
+Urban	SedimentWash	2.5914	1.328923	3.117292
+Urban	Sediment	245.8508	23.6253	367.717
+Urban	Water(Per-cell)			
+Rural	Water	0.771514	0.369145	0.814725
+Rural	SedimentWash	2.587709	1.860493	2.050106
+Rural	Sediment	358.6247	268.7378	271.8188
+Rural	Water(Per-cell)			
+Urban+Rural	Water	0.191956	0.162424	0.094547
+Urban+Rural	SedimentWash	1.974928	1.757132	1.001187
+Urban+Rural	Sediment	318.9416	125.5094	394.9607
+Urban+Rural	Water(Per-cell)			
+Urban+Rural+4°„C	Water	0.83796	0.132892	1.324234
+Urban+Rural+4°„C	SedimentWash	1.609474	1.520879	0.752043
+Urban+Rural+4°„C	Sediment	314.6964	132.8923	440.7215
+Urban+Rural+4°„C	Water(Per-cell)			

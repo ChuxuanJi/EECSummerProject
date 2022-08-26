@@ -1,0 +1,8 @@
+Ponds	Max
+ControlDd	5
+D7	28
+D8	102
+D9	31
+D10	37
+D11	104
+D12	56

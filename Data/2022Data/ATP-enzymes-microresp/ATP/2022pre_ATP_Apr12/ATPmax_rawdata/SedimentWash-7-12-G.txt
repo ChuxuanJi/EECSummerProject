@@ -1,0 +1,8 @@
+Ponds	Max
+ControlGd	7
+G7	83
+G8	69
+G9	38
+G10	71
+G11	503
+G12	59

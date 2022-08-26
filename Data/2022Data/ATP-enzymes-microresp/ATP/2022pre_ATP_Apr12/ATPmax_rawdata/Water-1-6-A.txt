@@ -1,0 +1,8 @@
+Ponds	Max
+A1	7
+A2	11
+A3	18
+A4	9
+A5	11
+A6	25
+ControlAa	5

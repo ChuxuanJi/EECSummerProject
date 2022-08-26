@@ -1,0 +1,8 @@
+Ponds	Max
+ControlDb	9
+D7	13
+D8	15
+D9	11
+D10	15
+D11	8
+D12	12

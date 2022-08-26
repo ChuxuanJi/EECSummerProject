@@ -1,0 +1,8 @@
+Ponds	Max
+H1	49
+H2	10
+H3	15
+H4	22
+H5	96
+H6	16
+ControlHa	7

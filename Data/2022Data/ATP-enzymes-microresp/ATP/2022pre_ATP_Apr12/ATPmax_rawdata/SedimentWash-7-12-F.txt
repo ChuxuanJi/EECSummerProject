@@ -1,0 +1,8 @@
+Ponds	Max
+ControlFd	5
+F7	156
+F8	76
+F9	56
+F10	69
+F11	185
+F12	60

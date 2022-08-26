@@ -1,0 +1,8 @@
+Ponds	Max
+F1	165
+F2	122
+F3	21
+F4	824
+F5	155
+F6	465
+ControlFe	6
