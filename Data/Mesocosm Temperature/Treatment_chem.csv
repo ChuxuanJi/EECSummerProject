@@ -1,0 +1,59 @@
+Pond,Group,Temperature,Treatment,Ammonia
+A1,4°„C,4°„C,4°„C,No Ammonia
+A2,CONTROL,CONTROL,CONTROL,Ammonia
+A4,UR+RU,,UR+RU,No Ammonia
+A6,4°„C,4°„C,4°„C,Ammonia
+A7,CONTROL,CONTROL,CONTROL,No Ammonia
+A10,UR,,UR,No Ammonia
+A11,UR+RU+4°„C,,UR+RU+4°„C,No Ammonia
+A12,UR+RU,,UR+RU,No Ammonia
+B2,UR,,UR,Ammonia
+B4,CONTROL,CONTROL,CONTROL,No Ammonia
+B5,RU,,RU,No Ammonia
+B8,CONTROL,CONTROL,CONTROL,Ammonia
+B9,4°„C,4°„C,4°„C,No Ammonia
+B12,CONTROL,CONTROL,CONTROL,Ammonia
+C1,UR+RU,,UR+RU,Ammonia
+C3,4°„C,4°„C,4°„C,No Ammonia
+C6,RU,,RU,No Ammonia
+C8,UR+RU+4°„C,,UR+RU+4°„C,No Ammonia
+C9,UR,,UR,No Ammonia
+C10,4°„C,4°„C,4°„C,Ammonia
+C12,RU,,RU,Ammonia
+D1,RU,,RU,No Ammonia
+D2,4°„C,4°„C,4°„C,Ammonia
+D5,UR,,UR,Ammonia
+D6,CONTROL,CONTROL,CONTROL,No Ammonia
+D7,UR+RU+4°„C,,UR+RU+4°„C,No Ammonia
+D8,UR,,UR,No Ammonia
+D10,CONTROL,CONTROL,CONTROL,Ammonia
+D11,UR+RU+4°„C,,UR+RU+4°„C,Ammonia
+D12,4°„C,4°„C,4°„C,No Ammonia
+E1,4°„C,4°„C,4°„C,No Ammonia
+E3,UR,,UR,No Ammonia
+E4,4°„C,4°„C,4°„C,Ammonia
+E6,RU,,RU,Ammonia
+E7,4°„C,4°„C,4°„C,Ammonia
+E8,UR+RU,,UR+RU,Ammonia
+E12,UR,,UR,Ammonia
+F1,RU,,RU,Ammonia
+F2,UR+RU+4°„C,,UR+RU+4°„C,Ammonia
+F3,4°„C,4°„C,4°„C,Ammonia
+F4,UR+RU,,UR+RU,Ammonia
+F5,CONTROL,CONTROL,CONTROL,No Ammonia
+F9,RU,,RU,No Ammonia
+F11,CONTROL,CONTROL,CONTROL,No Ammonia
+G4,UR+RU+4°„C,,UR+RU+4°„C,No Ammonia
+G6,UR+RU,,UR+RU,No Ammonia
+G7,RU,,RU,Ammonia
+G8,CONTROL,CONTROL,CONTROL,No Ammonia
+G9,UR+RU+4°„C,,UR+RU+4°„C,Ammonia
+G12,UR+RU+4°„C,,UR+RU+4°„C,Ammonia
+H1,CONTROL,CONTROL,CONTROL,Ammonia
+H2,UR+RU,,UR+RU,No Ammonia
+H4,4°„C,4°„C,4°„C,No Ammonia
+H6,UR,,UR,Ammonia
+H8,4°„C,4°„C,4°„C,Ammonia
+H10,CONTROL,CONTROL,CONTROL,Ammonia
+H11,4°„C,4°„C,4°„C,No Ammonia
+H12,UR+RU,,UR+RU,Ammonia

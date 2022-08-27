@@ -1,0 +1,97 @@
+Pond,Temperature,Treatment,Ammonia
+A1,4°„C,None,No Ammonia
+A2,CONTROL,None,Ammonia
+A3,5°„C,None,No Ammonia
+A4,CONTROL,UR+RU,No Ammonia
+A5,1°„C,None,No Ammonia
+A6,4°„C,None,Ammonia
+A7,CONTROL,None,No Ammonia
+A8,5°„C,None,No Ammonia
+A9,2°„C,None,Ammonia
+A10,CONTROL,UR,No Ammonia
+A11,4°„C,UR+RU,No Ammonia
+A12,CONTROL,UR+RU,No Ammonia
+B1,1°„C,None,No Ammonia
+B2,CONTROL,UR,Ammonia
+B3,6°„C,None,No Ammonia
+B4,CONTROL,None,No Ammonia
+B5,CONTROL,RU,No Ammonia
+B6,7°„C,None,No Ammonia
+B7,3°„C,None,No Ammonia
+B8,CONTROL,None,Ammonia
+B9,4°„C,None,No Ammonia
+B10,8°„C,None,No Ammonia
+B11,2°„C,None,Ammonia
+B12,CONTROL,None,Ammonia
+C1,CONTROL,UR+RU,Ammonia
+C2,2°„C,None,Ammonia
+C3,4°„C,None,No Ammonia
+C4,8°„C,None,Ammonia
+C5,2°„C,None,Ammonia
+C6,CONTROL,RU,No Ammonia
+C7,2°„C,None,No Ammonia
+C8,4°„C,UR+RU,No Ammonia
+C9,CONTROL,UR,No Ammonia
+C10,4°„C,None,Ammonia
+C11,7°„C,None,No Ammonia
+C12,CONTROL,RU,Ammonia
+D1,CONTROL,RU,No Ammonia
+D2,4°„C,None,Ammonia
+D3,6°„C,None,Ammonia
+D4,2°„C,None,Ammonia
+D5,CONTROL,UR,Ammonia
+D6,CONTROL,None,No Ammonia
+D7,4°„C,UR+RU,No Ammonia
+D8,CONTROL,UR,No Ammonia
+D9,6°„C,None,No Ammonia
+D10,CONTROL,None,Ammonia
+D11,4°„C,UR+RU,Ammonia
+D12,4°„C,None,No Ammonia
+E1,4°„C,None,No Ammonia
+E2,7°„C,None,Ammonia
+E3,CONTROL,UR,No Ammonia
+E4,4°„C,None,Ammonia
+E5,3°„C,None,Ammonia
+E6,CONTROL,RU,Ammonia
+E7,4°„C,None,Ammonia
+E8,CONTROL,UR+RU,Ammonia
+E9,2°„C,None,Ammonia
+E10,2°„C,None,No Ammonia
+E11,3°„C,None,Ammonia
+E12,CONTROL,UR,Ammonia
+F1,CONTROL,RU,Ammonia
+F2,4°„C,UR+RU,Ammonia
+F3,4°„C,None,Ammonia
+F4,CONTROL,UR+RU,Ammonia
+F5,CONTROL,None,No Ammonia
+F6,5°„C,None,Ammonia
+F7,8°„C,None,Ammonia
+F8,2°„C,None,No Ammonia
+F9,CONTROL,RU,No Ammonia
+F10,6°„C,None,Ammonia
+F11,CONTROL,None,No Ammonia
+F12,2°„C,None,Ammonia
+G1,2°„C,None,No Ammonia
+G2,1°„C,None,Ammonia
+G3,2°„C,None,No Ammonia
+G4,4°„C,UR+RU,No Ammonia
+G5,3°„C,None,No Ammonia
+G6,CONTROL,UR+RU,No Ammonia
+G7,CONTROL,RU,Ammonia
+G8,CONTROL,None,No Ammonia
+G9,4°„C,UR+RU,Ammonia
+G10,2°„C,None,No Ammonia
+G11,5°„C,None,Ammonia
+G12,4°„C,UR+RU,Ammonia
+H1,CONTROL,None,Ammonia
+H2,CONTROL,UR+RU,No Ammonia
+H3,8°„C,None,No Ammonia
+H4,4°„C,None,No Ammonia
+H5,2°„C,None,No Ammonia
+H6,CONTROL,UR,Ammonia
+H7,7°„C,None,Ammonia
+H8,4°„C,None,Ammonia
+H9,1°„C,None,Ammonia
+H10,CONTROL,None,Ammonia
+H11,4°„C,None,No Ammonia
+H12,CONTROL,UR+RU,Ammonia
